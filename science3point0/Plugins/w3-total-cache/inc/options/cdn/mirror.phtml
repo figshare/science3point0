@@ -1,0 +1,12 @@
+<tr>
+	<th style="width:300px;"><label for="cdn_cnames">Replace site's hostname with:</label></th>
+	<td>
+		<?php $cnames = $this->_config->get_array('cdn.mirror.domain'); include W3TC_DIR . '/inc/options/cdn/common/cnames.phtml'; ?>
+		<br /><span class="description">Enter the hostname provided by your <acronym>CDN</acronym> provider, this value will replace your site's hostname in the <acronym title="Hypertext Markup Language">HTML</acronym>.</span>
+	</td>
+</tr>
+<tr>
+	<th colspan="2">
+        <input id="cdn_test" class="button cdn_mirror" type="button" value="Test Mirror" /> <span id="cdn_test_status" class="w3tc-status w3tc-process"></span>
+    </th>
+</tr>

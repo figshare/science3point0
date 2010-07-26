@@ -1,0 +1,9 @@
+------------------
+BP Posts On Profile - ChangeLog
+http://wordpress.org/extend/plugins/bp-posts-on-profile/
+http://nxsn.com/my-projects/bp-posts-on-profile/
+------------------
+Version 0.1
+-----------
+2010-04-20 Hüseyin Berberoğlu <hberberoglu@gmail.com>
+	* First release.

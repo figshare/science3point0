@@ -1,0 +1,312 @@
+#
+# Henry Contreras <henry@nodolibre.org>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: facestream\n"
+"Report-Msgid-Bugs-To: henry@nodolibre.org\n"
+"POT-Creation-Date: 2010-03-22 16:38+0100\n"
+"PO-Revision-Date: 2010-06-09 16:51-0400\n"
+"Last-Translator: Henry Contreras <henry@nodolibre.org>\n"
+"Language-Team: es_VE <contacto@nodolibre.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: D:\\facestream\\trunk\n"
+
+#: D:\facestream\trunk/facestream.php:70
+msgid "Show Facebook"
+msgstr "Mostar Facebook "
+
+#: D:\facestream\trunk/facestream.php:99
+#: D:\facestream\trunk/facestream.php:101
+#: D:\facestream\trunk/facestream.php:138
+#: D:\facestream\trunk/facestream.php:140
+#: D:\facestream\trunk/facestream.php:176
+#: D:\facestream\trunk/facestream.php:178
+msgid "To facebook"
+msgstr "A Facebook"
+
+#: D:\facestream\trunk/facestream.php:106
+#: D:\facestream\trunk/facestream.php:145
+#: D:\facestream\trunk/facestream.php:183
+msgid "Want to send this message to facebook to? Check your "
+msgstr "¿Quiéres enviar este mensaje a Facebook? Revisa tus "
+
+#: D:\facestream\trunk/facestream.php:106
+#: D:\facestream\trunk/facestream.php:145
+#: D:\facestream\trunk/facestream.php:183
+msgid "facestream settings"
+msgstr "preferencias de Facestream"
+
+#: D:\facestream\trunk/facestream.php:298
+msgid "Just responded to:"
+msgstr "acaba de responderle a: "
+
+#: D:\facestream\trunk/facestream.php:675
+msgid "posted a"
+msgstr "escribió un "
+
+#: D:\facestream\trunk/facestream.php:675
+msgid "facebook "
+msgstr "Facebook"
+
+#: D:\facestream\trunk/facestream.php:728
+#: D:\facestream\trunk/facestream.php:919
+#: D:\facestream\trunk/facestream.php:965
+msgid "Facestream"
+msgstr "Facestream"
+
+#: D:\facestream\trunk/facestream.php:750
+msgid "Settings saved"
+msgstr "Opciones guardadas"
+
+#: D:\facestream\trunk/facestream.php:775
+msgid "Facestream setting"
+msgstr "Opciones de Facestream"
+
+#: D:\facestream\trunk/facestream.php:777
+#: D:\facestream\trunk/facestream.php:899
+msgid "Permission"
+msgstr "Permisos"
+
+#: D:\facestream\trunk/facestream.php:777
+msgid "You already gave permission."
+msgstr "Ya otorgaste permisos"
+
+#: D:\facestream\trunk/facestream.php:777
+msgid "To disallow click the button below and choose \"Deny\""
+msgstr "Para revocar acceso presiona el botón de abajo y escoge \"Negar\""
+
+#: D:\facestream\trunk/facestream.php:781
+#: D:\facestream\trunk/facestream.php:903
+msgid "Authorize with facebook"
+msgstr "Autorizar con Facebook"
+
+#: D:\facestream\trunk/facestream.php:787
+msgid "Options"
+msgstr "Opciones"
+
+#: D:\facestream\trunk/facestream.php:788
+#: D:\facestream\trunk/facestream.php:1012
+#: D:\facestream\trunk/facestream.php:1031
+#: D:\facestream\trunk/facestream.php:1039
+#: D:\facestream\trunk/facestream.php:1049
+#: D:\facestream\trunk/facestream.php:1058
+#: D:\facestream\trunk/facestream.php:1068
+#: D:\facestream\trunk/facestream.php:1078
+msgid "Yes"
+msgstr "Si"
+
+#: D:\facestream\trunk/facestream.php:789
+#: D:\facestream\trunk/facestream.php:1013
+#: D:\facestream\trunk/facestream.php:1032
+#: D:\facestream\trunk/facestream.php:1040
+#: D:\facestream\trunk/facestream.php:1050
+#: D:\facestream\trunk/facestream.php:1059
+#: D:\facestream\trunk/facestream.php:1069
+#: D:\facestream\trunk/facestream.php:1079
+msgid "No"
+msgstr "No"
+
+#: D:\facestream\trunk/facestream.php:796
+msgid "Always check checkbox \"To facebook\""
+msgstr "Siempre marcar la casilla \"A Facebook\""
+
+#: D:\facestream\trunk/facestream.php:803
+msgid "Synchronize facebook items to my activity"
+msgstr "Sincronizar la actividad de facebook localmente"
+
+#: D:\facestream\trunk/facestream.php:812
+msgid "Synchronize updates to my activity"
+msgstr "Sincronizar actualizaciones de facebook localmente"
+
+#: D:\facestream\trunk/facestream.php:823
+msgid "Synchronize links to my activity"
+msgstr "Sincronizar enlaces de facebook localmente"
+
+#: D:\facestream\trunk/facestream.php:832
+msgid "Synchronize photo's to my activity"
+msgstr "Sincronizar fotos de facebook localmente"
+
+#: D:\facestream\trunk/facestream.php:841
+msgid "Synchronize video's to my activity"
+msgstr "Sincronizar videos de facebook localmente"
+
+#: D:\facestream\trunk/facestream.php:855
+msgid "Add my profile link after my facebook item"
+msgstr "Añadir un enlace al perfil luego de los elementos de facebook"
+
+#: D:\facestream\trunk/facestream.php:864
+msgid "Filters"
+msgstr "Filtros"
+
+#: D:\facestream\trunk/facestream.php:865
+msgid "With filter you can decide what will be imported and what not. "
+msgstr "Con un Filtro puedes decidir que sera importado"
+
+#: D:\facestream\trunk/facestream.php:866
+msgid "By adding words in the \"Good\" filter only items with those words in it will be imported."
+msgstr "Al añadir palabras en el Filtro Bueno, sólo elementos con esas palabras serán importados"
+
+#: D:\facestream\trunk/facestream.php:867
+msgid "By adding words in the \"Bad\" filter items with those words won't be imported."
+msgstr "Al añadir palabras en el Filtro Malo, sólo elementos que no tengan esas palabras serán importados"
+
+#: D:\facestream\trunk/facestream.php:873
+msgid "Filters (items to activity)"
+msgstr "Filtros (de los elementos hacia la actividad)"
+
+#: D:\facestream\trunk/facestream.php:880
+msgid "Good filter (comma seperated)"
+msgstr "Filtro Bueno (separado por coma)"
+
+#: D:\facestream\trunk/facestream.php:886
+msgid "Bad filter (comma seperated)"
+msgstr "Filtro Malo (separado por coma)"
+
+#: D:\facestream\trunk/facestream.php:893
+msgid "Save settings"
+msgstr "Guardar opciones"
+
+#: D:\facestream\trunk/facestream.php:899
+msgid "You can setup your facestream over here."
+msgstr "Puedes configurar Facestream aqui"
+
+#: D:\facestream\trunk/facestream.php:900
+msgid "Before u can see al settings please authorize on facebook, to do so click on the link below."
+msgstr "Antes de que puedas ver todas las opciones necesitas autorizar el acceso a Facebook, para ello presiona el siguiente enlace."
+
+#: D:\facestream\trunk/facestream.php:935
+msgid "Facestream plugin settings"
+msgstr "Opciones del plugin Facestream"
+
+#: D:\facestream\trunk/facestream.php:959
+msgid "Settings saved."
+msgstr "Opciones guardades"
+
+#: D:\facestream\trunk/facestream.php:972
+msgid "Facebook API"
+msgstr "API de Facebook"
+
+#: D:\facestream\trunk/facestream.php:974
+msgid "For the plugin to work you need to get an API key from facebook."
+msgstr "Para que el plugin funcione necesitas obtener una llave del API de Facebook"
+
+#: D:\facestream\trunk/facestream.php:975
+msgid "To get one follow the next steps:"
+msgstr "Para obtener una llave sigue los siguientes pasos:"
+
+#: D:\facestream\trunk/facestream.php:976
+msgid "&nbsp;&nbsp;&nbsp;1. Go to "
+msgstr "&nbsp;&nbsp;&nbsp;1. Ve hasta "
+
+#: D:\facestream\trunk/facestream.php:976
+msgid " and login with your facebook account."
+msgstr "e inicia sesión con tu cuenta de Facebook"
+
+#: D:\facestream\trunk/facestream.php:977
+msgid "&nbsp;&nbsp;&nbsp;2. Create a new app "
+msgstr "&nbsp;&nbsp;&nbsp;2. Crea una nueva aplicación."
+
+#: D:\facestream\trunk/facestream.php:978
+msgid "&nbsp;&nbsp;&nbsp;3. Fill in the API key and application secret below."
+msgstr "&nbsp;&nbsp;&nbsp;3. Llena los datos de la aplicación abajo."
+
+#: D:\facestream\trunk/facestream.php:983
+msgid "API key:"
+msgstr "Llave del API (api key):"
+
+#: D:\facestream\trunk/facestream.php:988
+msgid "Application secret secret key:"
+msgstr "Llave secreta de la aplicación (secret key):"
+
+#: D:\facestream\trunk/facestream.php:994
+msgid "Filters (optional)"
+msgstr "Filtros (opcional)"
+
+#: D:\facestream\trunk/facestream.php:995
+msgid "Filters preventing to get a really messy activity streams."
+msgstr "Los Filtros previenen un comportamiento confuso y desordenado en los hilos de actividad"
+
+#: D:\facestream\trunk/facestream.php:996
+msgid "Example: You have an social network which focus is on soccer, you don't want all facebook items of your users showing up that hasn't to do anything with soccer."
+msgstr "Por Ejemplo: Si tienes una red social enfocada en fútbol, no querrás publicar los elementos desde Facebook que no tienen nada que ver con fútbol."
+
+#: D:\facestream\trunk/facestream.php:997
+msgid "you can set the filter to \"soccer\", now only facebook items with \"soccer\" will be shown of the users\"."
+msgstr "puedes establecer el filtro a fútbol, ahora sólo los elementos de Facebook con la palabra fútbol serán mostrados a los usuarios"
+
+#: D:\facestream\trunk/facestream.php:998
+msgid "By comma seperating words you can set-up multiple filters."
+msgstr "Separando palabras por comas podrás crear múltiples filtros"
+
+#: D:\facestream\trunk/facestream.php:998
+msgid "No filter = all items."
+msgstr "Sin Filtro = Todos los elementos"
+
+#: D:\facestream\trunk/facestream.php:999
+msgid "The explicit words filter blocks messages with those words in it."
+msgstr "El filtro de palabras explícitas bloquea mensajes con esas palabras"
+
+#: D:\facestream\trunk/facestream.php:1005
+msgid "Filters (comma seperated)"
+msgstr "Filtros (separado por coma)"
+
+#: D:\facestream\trunk/facestream.php:1010
+msgid "Show filters."
+msgstr "Mostrar filtros"
+
+#: D:\facestream\trunk/facestream.php:1018
+msgid "Explicit words (comma seperated)"
+msgstr "Palabras explícitas (separado por coma)"
+
+#: D:\facestream\trunk/facestream.php:1024
+msgid "User options"
+msgstr "Opciones de Usuario"
+
+#: D:\facestream\trunk/facestream.php:1029
+msgid "Show \"Want send this message to facebook to?...\" message on user page."
+msgstr "Mostrar el mensaje \"¿Quiéres enviar este mensaje a Facebook?\" en las páginas de los usuarios"
+
+#: D:\facestream\trunk/facestream.php:1037
+msgid "Allow users to sync to buddypress."
+msgstr "Permitir a los usuarios sincronizar con buddypress"
+
+#: D:\facestream\trunk/facestream.php:1047
+msgid "Allow users to sync updates to buddypress."
+msgstr "Permitir a los usuarios sincronizar actualizaciones con buddypress"
+
+#: D:\facestream\trunk/facestream.php:1056
+msgid "Allow users to sync links to buddypress."
+msgstr "Permitir a los usuarios sincronizar enlaces con buddypress"
+
+#: D:\facestream\trunk/facestream.php:1066
+msgid "Allow users to sync photo's to buddypress."
+msgstr "Permitir a los usuarios sincronizar fotos con buddypress"
+
+#: D:\facestream\trunk/facestream.php:1076
+msgid "Allow users to sync video's to buddypress."
+msgstr "Permitir a los usuarios sincronizar videos con buddypress"
+
+#: D:\facestream\trunk/facestream.php:1085
+msgid "Max facebook items import per user, per day (empty = unlimited)."
+msgstr "Máximos elementos de Facebook por usuario / por día (vacío = ilimitado)"
+
+#: D:\facestream\trunk/facestream.php:1096
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+#: D:\facestream\trunk/facestream.php:1100
+msgid "Donate"
+msgstr "Donar"
+
+#: D:\facestream\trunk/facestream.php:1102
+msgid "Do do like this plugin? Please donate, so i can stay improving this plugin and give support."
+msgstr "¿Te gusta el plugin? Puedes donar al desarrollador para garantizar mejoras y un buen soporte"
+
+#: D:\facestream\trunk/facestream.php:1248
+msgid "Every 5 minutes"
+msgstr "Cada cinco minutos"
+

@@ -1,0 +1,11 @@
+body#media-upload .media-item td.savesend input.button{
+	display:none;
+}
+
+body#media-upload .media-item tr.url,body#media-upload .media-item tr.align,body#media-upload .media-item tr.image-size{
+	display:none;
+}
+
+body#media-upload div#gallery-settings {
+	display:none!important;
+}

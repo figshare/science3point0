@@ -1,0 +1,66 @@
+div#message p {
+	-moz-border-radius:3px 3px 3px 3px;
+	background:none repeat scroll 0 0 #FFF9DB;
+	border-bottom:1px solid #FFE8C4;
+	border-right:1px solid #FFE8C4;
+	color:#FFA200;
+	display:inline-block;
+	font-size:11px;
+	font-weight:normal;
+	margin-top:6px;
+	padding:1px 8px;
+	text-decoration:none;
+}
+div#message.error p {
+	background:none repeat scroll 0 0 #E41717;
+	border-color:#A71A1A;
+	clear:left;
+	color:#FFFFFF;
+}
+
+div#message p {
+	display:block;
+	font-size:12px;
+	padding:10px 15px;
+}
+
+form.standard-form input[type="text"] {
+	width:75%;
+}
+form.standard-form textarea {
+	height:120px;
+	width:75%;
+}
+
+form.standard-form textarea, form.standard-form input[type="text"], form.standard-form select{
+	-moz-border-radius:3px 3px 3px 3px;
+	border:1px inset #CCCCCC;
+	color:#888888;
+	font-family:inherit;
+	font-size:14px;
+	font-size-adjust:inherit;
+	font-stretch:inherit;
+	font-style:inherit;
+	font-variant:inherit;
+	font-weight:inherit;
+	line-height:inherit;
+	padding:6px;
+}
+
+form.standard-form label, form.standard-form span.label {
+	display:block;
+	font-weight:bold;
+	margin:15px 0 5px;
+}
+
+/*TINYMCE RESET|START*/
+#content table.mceLayout,#content table.mceToolbar,#content table.mceLayout tr, #content table.mceLayout td  {
+	border:none;
+	margin:0;
+	padding:0;
+	width:auto;
+}
+#content table.mceLayout{
+	border:1px solid #DDD;
+}
+/*TINYMCE RESET|END*/
