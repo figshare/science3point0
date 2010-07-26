@@ -1,9 +1,0 @@
-@charset "utf-8";
-/* CSS Document */
-.b1, .b2, .b3, .b4{font-size:1px; overflow:hidden; display:block;}
-.b1 {height:1px; background:#888; margin:0 5px;}
-.b2 {height:1px; background:#FFFFFF; border-right:2px solid #888; border-left:2px solid #888; margin:0 3px;}
-.b3 {height:1px; background:#FFFFFF; border-right:1px solid #888; border-left:1px solid #888; margin:0 2px;}
-.b4 {height:2px; background:#FFFFFF; border-right:1px solid #888; border-left:1px solid #888; margin:0 1px;}
-.contentb {background: #FFFFFF; border-right:1px solid #888; border-left:1px solid #888;}
-.contentb div {margin-left: 5px;}
