@@ -1,0 +1,24 @@
+<tr>
+    <th style="width:300px;"><label for="cdn_netdna_apiid">API ID:</label></th>
+    <td>
+        <input id="cdn_netdna_apiid" type="text" name="cdn.netdna.apiid" value="<?php echo htmlspecialchars($this->_config->get_string('cdn.netdna.apiid')); ?>" size="60" />
+    </td>
+</tr>
+<tr>
+    <th><label for="cdn_netdna_apikey">API key:</label></th>
+    <td>
+        <input id="cdn_netdna_apikey" type="text" name="cdn.netdna.apikey" value="<?php echo htmlspecialchars($this->_config->get_string('cdn.netdna.apikey')); ?>" size="60" />
+    </td>
+</tr>
+<tr>
+    <th><label for="cdn_cnames">Replace site's hostname with:</label></th>
+    <td>
+		<?php $cnames = $this->_config->get_array('cdn.netdna.domain'); include W3TC_DIR . '/inc/options/cdn/common/cnames.phtml'; ?>
+        <br /><span class="description">Enter the hostname provided by your <acronym>CDN</acronym> provider, this value will replace your site's hostname in the <acronym title="Hypertext Markup Language">HTML</acronym>.</span>
+    </td>
+</tr>
+<tr>
+	<th colspan="2">
+        <input id="cdn_test" class="button cdn_netdna" type="button" value="Test NetDNA" /> <span id="cdn_test_status" class="w3tc-status w3tc-process"></span>
+    </th>
+</tr>

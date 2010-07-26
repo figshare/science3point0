@@ -1,0 +1,63 @@
+/**** wire css ***********************/
+/** Please copy the css below to your chhild theme's cs file or parent theme's css fil, I do not load it using the plugin as I don't want to overload your template with just another css file
+Most of the code here are @apeatling's work for bp 1.1 series, so all credit goes to him, I have simply copied and fixed a few rules to work with the current template*/
+
+#wire-post-list li, #wire-post-new {
+	
+}
+#wire-poster-avatar{float:left;
+width:70px;}
+	.wire-post-metadata, #wire-post-new-metadata {
+		color: #888;
+		font-size: 0.9em;
+	}
+	
+	.wire-post-content {
+		margin-left: 68px;
+	}
+
+#wire-post-new:hover {
+	position: relative;
+	
+}
+
+#wire-post-new textarea {
+	font: normal 1em "Lucida Grande", "Lucida Sans Unicode", Arial, Tahoma, sans-serif;
+}
+
+form#wire-post-new-form {
+	padding: 10px;
+	position: relative;
+}
+
+div#wire-post-new {
+	margin-top: 15px;
+}
+	p#wire-email-notify {
+		float: right;
+		margin: 0;
+	}
+
+	div#wire-post-new-avatar { 
+		float: left;
+	}
+	
+	div#wire-post-new-metadata {
+		
+	}
+		span#wire-by-text {
+			display: none;
+		}
+	
+	div#wire-post-new-input {
+		margin-left: 70px;
+	}
+		div#wire-post-new-input textarea {
+			height: 80px;
+			width: 98%;
+			margin: 5px 0 0 0;
+		}
+		
+		input#wire-post-submit { 
+			margin-top: 10px;
+		}

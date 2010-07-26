@@ -1,0 +1,21 @@
+ul.expandable label {
+	display:inline;
+	color:#000;
+}
+
+ul.expandable li {
+	list-style:none;
+	
+}
+ul.expandable ul.hide {
+	display:none;
+}
+ul.expandable span {
+	color:green;
+	font-family:"Courier New", Courier, monospace;
+	padding-right:5px;
+	cursor:default;
+}
+ul.expandable span.expanded, ul.expandable span.collapsed {
+	cursor:pointer;
+}

@@ -1,0 +1,510 @@
+# Translation of the WordPress plugin   by .
+# Copyright (C) 2010 
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/seo-for-buddypress\n"
+"POT-Creation-Date: 2010-05-26 16:51+0000\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: admin/general.inc.php:66
+msgid "Seo for Buddypress: General Seo"
+msgstr ""
+
+#: admin/general.inc.php:69
+msgid "Update General Seo"
+msgstr ""
+
+#: admin/general.inc.php:73
+msgid "Directories"
+msgstr ""
+
+#: admin/general.inc.php:77
+msgid "Groups"
+msgstr ""
+
+#: admin/general.inc.php:80
+msgid "Main Blog"
+msgstr ""
+
+#: admin/general.inc.php:82
+msgid "User Blogs"
+msgstr ""
+
+#: admin/general.inc.php:90
+#, php-format
+msgid ""
+"A directory view is the start-page of a component, the overview.\n"
+"<br>\n"
+"Most special tags will not work at the directory view, because they make no "
+"sense here.<br>\n"
+"The %%component...%% tags are just for sub-pages of the directories.<br>\n"
+"<br>\n"
+"The directory views are the main-pages and that's why it's important to give "
+"every directory a unique title and description.\n"
+"Write something about every directory on your site so that others will know "
+"what kind of directory they will find.\n"
+"<br><br>\n"
+"Examples: in the groups directory, write what kind of groups I will find on "
+"your social network.\n"
+"If you are in the members directory, write what kind of members I will find. "
+"Are your members musicians, or do they have the same hobbies? repair "
+"cars ...?\n"
+"Give a detailed explanation.\n"
+"\n"
+"."
+msgstr ""
+
+#: admin/general.inc.php:140 admin/general.inc.php:210
+#: admin/general.inc.php:271 admin/main.inc.php:59 admin/main.inc.php:98
+#: admin/plugins.inc.php:124
+msgid "The site's name"
+msgstr ""
+
+#: admin/general.inc.php:141 admin/general.inc.php:211 admin/main.inc.php:99
+#: admin/plugins.inc.php:125
+msgid "Replaced with current component"
+msgstr ""
+
+#: admin/general.inc.php:142 admin/general.inc.php:212 admin/main.inc.php:100
+#: admin/plugins.inc.php:126
+msgid "Replaced with current action"
+msgstr ""
+
+#: admin/general.inc.php:143 admin/main.inc.php:116
+msgid "Replaced with the user's nicename"
+msgstr ""
+
+#: admin/general.inc.php:144 admin/main.inc.php:117
+msgid "Replaced with the user registered"
+msgstr ""
+
+#: admin/general.inc.php:145 admin/main.inc.php:118
+msgid "Replaced with the displayed name of the user"
+msgstr ""
+
+#: admin/general.inc.php:146 admin/main.inc.php:119
+msgid "Replaced with the full name of the user"
+msgstr ""
+
+#: admin/general.inc.php:205 admin/general.inc.php:266 admin/main.inc.php:14
+#: admin/main.inc.php:47
+msgid "Special Tags"
+msgstr ""
+
+#: admin/general.inc.php:213 admin/main.inc.php:101 admin/plugins.inc.php:127
+msgid "Replaced with component name"
+msgstr ""
+
+#: admin/general.inc.php:214 admin/main.inc.php:102 admin/plugins.inc.php:128
+msgid "Replaced with the component ID"
+msgstr ""
+
+#: admin/general.inc.php:215 admin/main.inc.php:103 admin/plugins.inc.php:129
+msgid "Replaced with component description"
+msgstr ""
+
+#: admin/general.inc.php:216 admin/main.inc.php:104 admin/plugins.inc.php:130
+msgid "Replaced with the component status"
+msgstr ""
+
+#: admin/general.inc.php:217 admin/main.inc.php:105 admin/plugins.inc.php:131
+msgid "Replaced with the component date created"
+msgstr ""
+
+#: admin/general.inc.php:218 admin/main.inc.php:106 admin/plugins.inc.php:132
+msgid "Replaced with the component admins"
+msgstr ""
+
+#: admin/general.inc.php:219 admin/main.inc.php:107 admin/plugins.inc.php:133
+msgid "Replaced with the component total member-count"
+msgstr ""
+
+#: admin/general.inc.php:220 admin/main.inc.php:108 admin/plugins.inc.php:134
+msgid "Replaced with the component last activity"
+msgstr ""
+
+#: admin/general.inc.php:221 admin/main.inc.php:109
+msgid "Replaced with current forum topic title"
+msgstr ""
+
+#: admin/general.inc.php:222 admin/main.inc.php:110
+msgid "Replaced with current forum topic poster name"
+msgstr ""
+
+#: admin/general.inc.php:223 admin/main.inc.php:111
+msgid "Replaced with current forum topic last poster name"
+msgstr ""
+
+#: admin/general.inc.php:224 admin/main.inc.php:112
+msgid "Replaced with current forum topic start time"
+msgstr ""
+
+#: admin/general.inc.php:225 admin/main.inc.php:113
+msgid "Replaced with current forum topic time"
+msgstr ""
+
+#: admin/general.inc.php:226 admin/main.inc.php:114
+msgid "Replaced with current forum topic text"
+msgstr ""
+
+#: admin/general.inc.php:272 admin/main.inc.php:72
+msgid "Replaced with the current time"
+msgstr ""
+
+#: admin/general.inc.php:273 admin/main.inc.php:73
+msgid "Replaced with the current date"
+msgstr ""
+
+#: admin/general.inc.php:274 admin/main.inc.php:74
+msgid "Replaced with the current month"
+msgstr ""
+
+#: admin/general.inc.php:275 admin/main.inc.php:75
+msgid "Replaced with the current year"
+msgstr ""
+
+#: admin/general.inc.php:301 admin/general.inc.php:341 admin/main.inc.php:50
+msgid "Special Tags for WP and WPMU"
+msgstr ""
+
+#: admin/general.inc.php:302 admin/general.inc.php:342
+msgid "For a list of all available tags go "
+msgstr ""
+
+#: admin/general.inc.php:302 admin/general.inc.php:342
+msgid "here"
+msgstr ""
+
+#: admin/general.inc.php:338
+msgid "Info"
+msgstr ""
+
+#: admin/general.inc.php:339
+msgid "You need to activate the plugin sitewide to run user blogs."
+msgstr ""
+
+#: admin/main.inc.php:13
+msgid "Welcome"
+msgstr ""
+
+#: admin/main.inc.php:15 admin/main.inc.php:138
+msgid "Help and Info"
+msgstr ""
+
+#: admin/main.inc.php:21
+msgid "Seo for WP/WPMU and Buddypress"
+msgstr ""
+
+#: admin/main.inc.php:22
+msgid ""
+"Search engine optimization for Wordpress single | Wordpress MU | Buddypress "
+"and plugins."
+msgstr ""
+
+#: admin/main.inc.php:23 seo4all.php:91
+msgid "General Seo"
+msgstr ""
+
+#: admin/main.inc.php:24
+msgid ""
+"This is the place for the general meta(title, description, keywords) "
+"optimization in a WP | WPMU | Buddypress environment. The meta options shown "
+"in this page will be generated depending on the WP you use and the activated "
+"Buddypress components."
+msgstr ""
+
+#: admin/main.inc.php:25 seo4all.php:93
+msgid "Plugins Seo"
+msgstr ""
+
+#: admin/main.inc.php:26
+msgid ""
+"If you have installed plugins to extend Buddypress, this is the place where "
+"to configure the Seo behavior of every component. First you need to select "
+"where the component is shown in the front-end. After saving, you will be "
+"able to enter all meta data depending on your selection."
+msgstr ""
+
+#: admin/main.inc.php:27 seo4all.php:95
+msgid "Settings"
+msgstr ""
+
+#: admin/main.inc.php:28
+msgid ""
+"Settings page for the global Seo configuration, update and delete Seo for "
+"Buddypress."
+msgstr ""
+
+#: admin/main.inc.php:30
+msgid ""
+"If you use Seo for Buddypress, please support the development with a donation"
+msgstr ""
+
+#: admin/main.inc.php:48
+msgid ""
+"Special Tags are place holders to use in the meta data to specifay the "
+"content. Not all Tags are avalibe everywere. Use every tag with care, and "
+"check if the tag is suportet and gife you back the result you wanted."
+msgstr ""
+
+#: admin/main.inc.php:51
+msgid ""
+"These tags can be included and will be replaced when the main/user blog "
+"pages or posts are displayed."
+msgstr ""
+
+#: admin/main.inc.php:57
+msgid "Replaced with the date of the post/page"
+msgstr ""
+
+#: admin/main.inc.php:58
+msgid "Replaced with the title of the post/page"
+msgstr ""
+
+#: admin/main.inc.php:60
+msgid "Replaced with the post/page excerpt"
+msgstr ""
+
+#: admin/main.inc.php:61
+msgid "Replaced with the current tag/tags"
+msgstr ""
+
+#: admin/main.inc.php:62
+msgid "Replaced with the post categories (comma separated)"
+msgstr ""
+
+#: admin/main.inc.php:63
+msgid "Replaced with the category description"
+msgstr ""
+
+#: admin/main.inc.php:64
+msgid "Replaced with the tag description"
+msgstr ""
+
+#: admin/main.inc.php:65
+msgid "Replaced with the term description"
+msgstr ""
+
+#: admin/main.inc.php:66
+msgid "Replaced with the term name"
+msgstr ""
+
+#: admin/main.inc.php:67
+msgid "Replaced with the post/page modified time"
+msgstr ""
+
+#: admin/main.inc.php:68
+msgid "Replaced with the post/page ID"
+msgstr ""
+
+#: admin/main.inc.php:69
+msgid "Replaced with the post/page author's 'nicename'"
+msgstr ""
+
+#: admin/main.inc.php:70
+msgid "Replaced with the post/page author's user ID"
+msgstr ""
+
+#: admin/main.inc.php:71
+msgid "Replaced with the current search phrase"
+msgstr ""
+
+#: admin/main.inc.php:76
+msgid "Replaced with the current page number (i.e. page 2 of 4)"
+msgstr ""
+
+#: admin/main.inc.php:77
+msgid "Replaced with the current page total"
+msgstr ""
+
+#: admin/main.inc.php:78
+msgid "Replaced with the current page number"
+msgstr ""
+
+#: admin/main.inc.php:79
+msgid "Attachment caption"
+msgstr ""
+
+#: admin/main.inc.php:91
+msgid "Special Tags for Buddypress"
+msgstr ""
+
+#: admin/main.inc.php:92
+msgid ""
+"These tags can be included and will be replaced when a Buddypress page is "
+"displayed."
+msgstr ""
+
+#: admin/main.inc.php:115
+msgid "Replaced with the user ID"
+msgstr ""
+
+#: admin/main.inc.php:139
+msgid ""
+"If you have any problems, need help or find a bug,\n"
+"      <br>please have a look into the following places:"
+msgstr ""
+
+#: admin/main.inc.php:141
+msgid "Plugin page"
+msgstr ""
+
+#: admin/main.inc.php:142
+msgid "Buddypress forum"
+msgstr ""
+
+#: admin/main.inc.php:146
+msgid "What's coming in the next version?"
+msgstr ""
+
+#: admin/main.inc.php:147
+msgid ""
+"I'm thinking about to add the following features into the next versions:"
+msgstr ""
+
+#: admin/main.inc.php:148
+msgid "- Nofollow control"
+msgstr ""
+
+#: admin/main.inc.php:149
+msgid "- Image-title and alt-tag management"
+msgstr ""
+
+#: admin/main.inc.php:150
+msgid "- Letter and word counter for the meta edit pages"
+msgstr ""
+
+#: admin/main.inc.php:151
+msgid "- Add meta description in the post edit screen"
+msgstr ""
+
+#: admin/main.inc.php:152
+msgid "If you have any suggestions, please contact me here."
+msgstr ""
+
+#: admin/main.inc.php:153
+msgid "I'm always looking forward to improve \"Seo for Buddypress\"."
+msgstr ""
+
+#: admin/plugins.inc.php:18
+msgid "Seo for Buddypress: Plugins Seo"
+msgstr ""
+
+#: admin/plugins.inc.php:36
+msgid "Buddypress Seo configuration for extended components"
+msgstr ""
+
+#: admin/plugins.inc.php:37
+msgid "Please select the component for which you like to edit the meta tags."
+msgstr ""
+
+#: admin/plugins.inc.php:38
+msgid ""
+" !!! Attention: most times if a component has a directory view, every entry "
+"of the component has an own home view."
+msgstr ""
+
+#: admin/plugins.inc.php:39
+msgid ""
+"To generate dynamic meta tags for these views, you need to select the "
+"component itself under \"extends other components\". "
+msgstr ""
+
+#: admin/plugins.inc.php:41
+msgid ""
+"For example, if you have \"Buddypress Events\" installed: it has a directory "
+"view and every event has a home view. In this case, you have to select "
+"\"events\" under \"extends other components\"."
+msgstr ""
+
+#: admin/plugins.inc.php:45
+msgid "Update components configuration"
+msgstr ""
+
+#: admin/settings.inc.php:15
+msgid "Update Database"
+msgstr ""
+
+#: admin/settings.inc.php:22
+msgid "Delete Seo for Buddypress"
+msgstr ""
+
+#: admin/single-metabox.php:16
+msgid "klick"
+msgstr ""
+
+#: admin/single-metabox.php:19
+msgid "SEO settings"
+msgstr ""
+
+#: admin/single-metabox.php:22
+msgid "Title"
+msgstr ""
+
+#: admin/single-metabox.php:26
+msgid "Description"
+msgstr ""
+
+#: admin/single-metabox.php:30
+msgid "Keywords"
+msgstr ""
+
+#: meta.inc.php:345
+msgid "Home"
+msgstr ""
+
+#: meta.inc.php:349
+msgid "Blog &#124; "
+msgstr ""
+
+#: meta.inc.php:351
+msgid "Blog &#124; Categories &#124; "
+msgstr ""
+
+#: meta.inc.php:353
+msgid "Blog &#124; Tags &#124; "
+msgstr ""
+
+#: meta.inc.php:357
+msgid "Blog"
+msgstr ""
+
+#: meta.inc.php:367 meta.inc.php:369
+#, php-format
+msgid "%s Directory"
+msgstr ""
+
+#: meta.inc.php:372
+msgid "Create an Account"
+msgstr ""
+
+#: meta.inc.php:375
+msgid "Activate your Account"
+msgstr ""
+
+#: meta.inc.php:378
+msgid "Create a Group"
+msgstr ""
+
+#: meta.inc.php:381
+msgid "Create a Blog"
+msgstr ""
+
+#: seo4all.php:89
+msgid "SEO"
+msgstr ""
+
+#: special-tags.inc.php:468
+#, php-format
+msgid "page %d of %d"
+msgstr ""

@@ -1,0 +1,277 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tweetstream\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-08 20:27+0100\n"
+"PO-Revision-Date: 2010-04-07 15:00+0300\n"
+"Last-Translator: FatCow <zhr@tut.by>\n"
+"Language-Team: Marcis G. <by.marcis@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Belarusian\n"
+"X-Poedit-Country: BELARUS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: D:\\plugins\\tweetstream\\trunk\n"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:72
+msgid "Show Tweets"
+msgstr "Паказаць твиты"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:101
+#: D:\plugins\tweetstream\trunk/tweetstream.php:103
+#: D:\plugins\tweetstream\trunk/tweetstream.php:141
+#: D:\plugins\tweetstream\trunk/tweetstream.php:143
+#: D:\plugins\tweetstream\trunk/tweetstream.php:180
+#: D:\plugins\tweetstream\trunk/tweetstream.php:182
+msgid "To twitter"
+msgstr "У твиттер"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:108
+#: D:\plugins\tweetstream\trunk/tweetstream.php:148
+#: D:\plugins\tweetstream\trunk/tweetstream.php:187
+msgid "Want to tweet this message to? Check your "
+msgstr "Вы жадаеце адправіць гэта паведамленне ў твиттер? Праверце"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:108
+#: D:\plugins\tweetstream\trunk/tweetstream.php:148
+#: D:\plugins\tweetstream\trunk/tweetstream.php:187
+msgid "tweetstream settings"
+msgstr "налады сінхранізацыі з твиттером"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:319
+msgid "Just responded to:"
+msgstr "адказаў на"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:611
+msgid "posted a"
+msgstr "адправіў"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:611
+msgid "tweet"
+msgstr "твит"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:712
+#: D:\plugins\tweetstream\trunk/tweetstream.php:862
+#: D:\plugins\tweetstream\trunk/tweetstream.php:902
+msgid "Tweetstream"
+msgstr "Сінхранізацыя з твиттером"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:734
+msgid "Settings saved"
+msgstr "Налады захаваны"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:750
+msgid "Tweetstream setting"
+msgstr "Налады твиттера"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:752
+#: D:\plugins\tweetstream\trunk/tweetstream.php:846
+msgid "Permission"
+msgstr "Дазвол"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:752
+msgid "You already gave permission."
+msgstr "Вы ўжо далечы дазвол."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:752
+msgid "To disallow click the button below and choose \"Deny\""
+msgstr "Калі Вы жадаеце забараніць сінхранізацыю з твиттером, націсніце на кнопку і абярыце \"Deny\""
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:756
+#: D:\plugins\tweetstream\trunk/tweetstream.php:848
+msgid "Authorize with twitter"
+msgstr "Аўтарызаваць з твиттером"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:762
+msgid "Options"
+msgstr "Налады"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:763
+#: D:\plugins\tweetstream\trunk/tweetstream.php:949
+#: D:\plugins\tweetstream\trunk/tweetstream.php:968
+#: D:\plugins\tweetstream\trunk/tweetstream.php:976
+msgid "Yes"
+msgstr "Так"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:764
+#: D:\plugins\tweetstream\trunk/tweetstream.php:950
+#: D:\plugins\tweetstream\trunk/tweetstream.php:969
+#: D:\plugins\tweetstream\trunk/tweetstream.php:977
+msgid "No"
+msgstr "Не"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:769
+msgid "Delete tweet from twitter when deleted in activity."
+msgstr "Выдаляць запіс з твиттера, калі выдаляецца адпаведны запіс у стужцы актыўнасці"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:779
+msgid "Always check checkbox \"To twitter\""
+msgstr "Ставіць галачку \"У твиттер\" па змаўчанні"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:786
+msgid "Synchronize tweets to my activity"
+msgstr "Сінхранізаваць запісы твиттера з маёй стужкай актыўнасці"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:793
+msgid "Import tweets containing @names"
+msgstr "Імпартаваць твиты, якія змяшчаюць @імёны"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:802
+msgid "Add my profile link after my tweet"
+msgstr "Дадаваць спасылку на мой профіль у канцы твита"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:811
+msgid "Filters"
+msgstr "Фільтры"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:812
+msgid "With filter you can decide what will be imported and what not. "
+msgstr "З дапамогай фільтра Вы можаце вырашаць, што імпартаваць, а што няма."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:813
+msgid "By adding words in the \"Good\" filter only tweets with those words in it will be imported."
+msgstr "Калі дадаць словы ў фільтр \"Дазволеныя\", то будуць импотироваться толькі твиты з гэтымі словамі."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:814
+msgid "By adding words in the \"Bad\" filter tweets with those words won't be imported."
+msgstr "Калі дадаць словы ў фільтр \"Забароненыя\", то твиты з гэтымі словамі не будуць імпартавацца."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:820
+msgid "Filters (tweets to activity)"
+msgstr "Фільтры (твиты ў стужку актыўнасці)"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:827
+msgid "Good filter (comma seperated)"
+msgstr "Дазволеныя (падзеленыя коскамі)"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:833
+msgid "Bad filter (comma seperated)"
+msgstr "Забароненыя (падзеленыя коскамі)"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:840
+msgid "Save settings"
+msgstr "Захаваць налады"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:846
+msgid "You can setup your tweetstream over here."
+msgstr "Вы можаце наладзіць сінхранізацыю з вашым акаўнтам у твиттере."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:847
+msgid "Before u can see al settings please authorize on twitter, to do so click on the link below."
+msgstr "Перш, чым убачыць усе налады, калі ласка, дайце сістэме дазвол на доступ да вашага акаўнта ў твиттере. Для гэтага клікніце па спасылцы ніжэй."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:878
+msgid "Tweetstream plugin settings"
+msgstr "Налады сінхранізацыі з твиттером"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:896
+msgid "Settings saved."
+msgstr "Налады захаваны."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:909
+msgid "Twitter API"
+msgstr "Twitter API"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:911
+msgid "For the plugin to work you need to get an API key from twitter."
+msgstr "Для працы ўбудовы Вам трэба атрымаць API ключ ад твиттера"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:912
+msgid "To get one follow the next steps:"
+msgstr "Каб атрымаць яго, вынікайце гэтым інструкцыям:"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:913
+msgid "&nbsp;&nbsp;&nbsp;1. Go to "
+msgstr "&nbsp;&nbsp;&nbsp;1. Зайдзіце "
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:913
+msgid " and login with your twitter account."
+msgstr " і выканаеце ўваход у свой твиттер-акаўнт."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:914
+msgid "&nbsp;&nbsp;&nbsp;2. Create a new app wich has read/write settings, type browser (not client) and a callback url to: "
+msgstr "&nbsp;&nbsp;&nbsp;2. Стварыце новае прыкладанне з правамі чытання і запісы, тып - браўзар (не праграма) і вярніцеся па прапанаваных Вас спасылцы:"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:915
+msgid "&nbsp;&nbsp;&nbsp;3. Fill in the consumer key and consumer secret below."
+msgstr "&nbsp;&nbsp;&nbsp;3. Увядзіце атрыманы ключ і сакрэтны код ніжэй."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:920
+msgid "Consumer key:"
+msgstr "Карыстацкі ключ (consumer key)"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:925
+msgid "Consumer secret key:"
+msgstr "Карыстацкі сакрэтны код (consumer secret key):"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:931
+msgid "Filters (optional)"
+msgstr "Фільтры (не абавязкова)"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:932
+msgid "Filters preventing to get a really messy activity streams."
+msgstr "Фільтры дапамагаюць пазбавіцца ад замусоривания стужак актыўнасці."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:933
+msgid "Example: You have an social network wich focus is on soccer, you don't want all tweets of your users showing up that hasn't to do anything with soccer."
+msgstr "Напрыклад: У вас сацыяльная сетка пра футбол, і Вы б не жадалі, каб староннія твиты вашых карыстачоў імпартаваліся ў стужку."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:934
+msgid "you can set the filter to \"soccer\", now only tweets with \"#soccer\" will be shown of the users tweets\"."
+msgstr "Вы можаце ўсталяваць фільтр \"футбол\", зараз толькі твиты з тэгам \"#футбол\" будуць імпартавацца з твиттеров карыстачоў."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:935
+msgid "By comma seperating words you can set-up multiple filters."
+msgstr "Для выкарыстання множных фільтраў падзяляйце словы коскамі."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:935
+msgid "No filter = all tweets."
+msgstr "Калі няма фільтраў, будуць импотироваться ўсё твиты."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:936
+msgid "The explicit words filter blocks messages with those words in it."
+msgstr "Відавочны фільтр слоў блакуе запісы, у якіх сустракаюцца гэтыя словы."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:942
+msgid "Filters (comma seperated)"
+msgstr "Фільтры (падзеленым коскамі)"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:947
+msgid "Show filters in tweets."
+msgstr "Паказваць фільтры ў твитах."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:955
+msgid "Explicit words (comma seperated)"
+msgstr "Відавочныя словы (падзеленым коскамі)"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:961
+msgid "User options"
+msgstr "Карыстацкія налады"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:966
+msgid "Show \"Want to tweet this message to?...\" message on user page."
+msgstr "Паказваць паведамленне \"Вы жадаеце адправіць гэта паведамленне ў твиттер?...\" на старонцы карыстача."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:974
+msgid "Allow users to sync to buddypress."
+msgstr "Разрешить пользователям синхронизацию с BuddyPress."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:982
+msgid "Max tweet import per user, per day (empty = unlimited)."
+msgstr "Максимально твитов импорта на одного пользователя в сутки (пусто = неограничено)."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:993
+msgid "Save Changes"
+msgstr "Захаваць змены"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:997
+msgid "Donate"
+msgstr "Ахвяраваць"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:999
+msgid "Do do like this plugin? Please donate, so i can stay improving this plugin and give support."
+msgstr "Вам падабаецца гэта ўбудова? Калі ласка, ахвяруйце таварышу разрабу гэтай убудовы, колькі не шкада. Хлопец папрацаваў на славу, хоць і жыве ў буржунете. Таксама Вы зможаце атрымаць ад яго дапамога і кансультацыі."
+

@@ -1,0 +1,275 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tweetstream\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-08 20:25+0100\n"
+"PO-Revision-Date: 2010-03-08 20:57+0100\n"
+"Last-Translator: peter <blackphantom25@gmail.com>\n"
+"Language-Team: blackphantom <blackphantom25@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: D:\\plugins\\tweetstream\\trunk\n"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:72
+msgid "Show Tweets"
+msgstr "Toon Tweets"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:101
+#: D:\plugins\tweetstream\trunk/tweetstream.php:103
+#: D:\plugins\tweetstream\trunk/tweetstream.php:141
+#: D:\plugins\tweetstream\trunk/tweetstream.php:143
+#: D:\plugins\tweetstream\trunk/tweetstream.php:180
+#: D:\plugins\tweetstream\trunk/tweetstream.php:182
+msgid "To twitter"
+msgstr "Naar twitter"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:108
+#: D:\plugins\tweetstream\trunk/tweetstream.php:148
+#: D:\plugins\tweetstream\trunk/tweetstream.php:187
+msgid "Want to tweet this message to? Check your "
+msgstr "Wil je dit bericht ook twitterren? Controleer je"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:108
+#: D:\plugins\tweetstream\trunk/tweetstream.php:148
+#: D:\plugins\tweetstream\trunk/tweetstream.php:187
+msgid "tweetstream settings"
+msgstr "tweetstream instellingen"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:319
+msgid "Just responded to:"
+msgstr "Net gereageerd op:"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:611
+msgid "posted a"
+msgstr "heeft een"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:611
+msgid "tweet"
+msgstr "tweet"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:712
+#: D:\plugins\tweetstream\trunk/tweetstream.php:862
+#: D:\plugins\tweetstream\trunk/tweetstream.php:902
+msgid "Tweetstream"
+msgstr "Tweetstream"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:734
+msgid "Settings saved"
+msgstr "Instellingen bewaard"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:750
+msgid "Tweetstream setting"
+msgstr "Tweetstream instellingen"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:752
+#: D:\plugins\tweetstream\trunk/tweetstream.php:846
+msgid "Permission"
+msgstr "Authorisatie"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:752
+msgid "You already gave permission."
+msgstr "Je bent al geautoriseerd"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:752
+msgid "To disallow click the button below and choose \"Deny\""
+msgstr "Om authorisatie the beeindigen klik op de knop en kies \"Deny\""
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:756
+#: D:\plugins\tweetstream\trunk/tweetstream.php:848
+msgid "Authorize with twitter"
+msgstr "Autoriseer op twitter"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:762
+msgid "Options"
+msgstr "Opties"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:763
+#: D:\plugins\tweetstream\trunk/tweetstream.php:949
+#: D:\plugins\tweetstream\trunk/tweetstream.php:968
+#: D:\plugins\tweetstream\trunk/tweetstream.php:976
+msgid "Yes"
+msgstr "Ja"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:764
+#: D:\plugins\tweetstream\trunk/tweetstream.php:950
+#: D:\plugins\tweetstream\trunk/tweetstream.php:969
+#: D:\plugins\tweetstream\trunk/tweetstream.php:977
+msgid "No"
+msgstr "Nee"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:769
+msgid "Delete tweet from twitter when deleted in activity."
+msgstr "Verwijder tweet ook van twitter als activiteit wordt verwijderd."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:779
+msgid "Always check checkbox \"To twitter\""
+msgstr "Checkbox \"Naar twitter\" altijd aan"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:786
+msgid "Synchronize tweets to my activity"
+msgstr "Synchroniseer tweets naar mijn activiteiten"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:793
+msgid "Import tweets containing @names"
+msgstr "Importeer tweet die @names bevatten"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:802
+msgid "Add my profile link after my tweet"
+msgstr "Voeg profiel link toe aan tweets"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:811
+msgid "Filters"
+msgstr "Filters"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:812
+msgid "With filter you can decide what will be imported and what not. "
+msgstr "Met filters kan je bepalen wat wel en wat niet geimporteerd wordt."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:813
+msgid "By adding words in the \"Good\" filter only tweets with those words in it will be imported."
+msgstr "Door woorden toe te voegen aan de \"Goed\" filter worden enkel tweets waarin deze woorden voorkomen geimporteerd."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:814
+msgid "By adding words in the \"Bad\" filter tweets with those words won't be imported."
+msgstr "Door woorden toe te voegen aan de \"Slecht\" filter worden tweets die deze woorden bevatten niet geimporteerd."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:820
+msgid "Filters (tweets to activity)"
+msgstr "Filters (tweets baar activity)"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:827
+msgid "Good filter (comma seperated)"
+msgstr "Goed filter (komma geschieden)"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:833
+msgid "Bad filter (comma seperated)"
+msgstr "Slecht filter (comma gescheiden)"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:840
+msgid "Save settings"
+msgstr "Bewaar instellingen"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:846
+msgid "You can setup your tweetstream over here."
+msgstr "Hier kan je tweetstream instellen."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:847
+msgid "Before u can see al settings please authorize on twitter, to do so click on the link below."
+msgstr "Voor je alle instellingen kan zien authoriseer jezelf op twitter, om dat te doen klik op de knop hier beneden."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:878
+msgid "Tweetstream plugin settings"
+msgstr "Tweetstream plugin instellingen"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:896
+msgid "Settings saved."
+msgstr "Instellingen bewaard"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:909
+msgid "Twitter API"
+msgstr "Twitter API"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:911
+msgid "For the plugin to work you need to get an API key from twitter."
+msgstr "Om de plugin te laten werken moet je een API key verkrijgen van twitter."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:912
+msgid "To get one follow the next steps:"
+msgstr "Om een key te krijgen volg je de volgende stapen:"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:913
+msgid "&nbsp;&nbsp;&nbsp;1. Go to "
+msgstr "&nbsp;&nbsp;&nbsp;1. Ga naar"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:913
+msgid " and login with your twitter account."
+msgstr "en login met je twitter account."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:914
+msgid "&nbsp;&nbsp;&nbsp;2. Create a new app wich has read/write settings, type browser (not client) and a callback url to: "
+msgstr "&nbsp;&nbsp;&nbsp;2. Maak een nieuwe app welke lees/schrijf rechten heeft met het type, browser (geen client)  zet de callback url op:"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:915
+msgid "&nbsp;&nbsp;&nbsp;3. Fill in the consumer key and consumer secret below."
+msgstr "&nbsp;&nbsp;&nbsp;3. Vul de consumer key en consumer secret hieronder in."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:920
+msgid "Consumer key:"
+msgstr "Consumer key:"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:925
+msgid "Consumer secret key:"
+msgstr "Consumer secret key:"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:931
+msgid "Filters (optional)"
+msgstr "Filters (optioneel)"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:932
+msgid "Filters preventing to get a really messy activity streams."
+msgstr "Filters voorkomen overvolle activiteiten streams."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:933
+msgid "Example: You have an social network wich focus is on soccer, you don't want all tweets of your users showing up that hasn't to do anything with soccer."
+msgstr "Voorbeeld: Je hebt een sociaal netwerk waar puur gericht wordt op voetbal, dan wil je niet alle tweets importeren die niets met voetbal te maken hebben."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:934
+msgid "you can set the filter to \"soccer\", now only tweets with \"#soccer\" will be shown of the users tweets\"."
+msgstr "je kan een filter op \"voetbal\" zetten, dan worden enkel tweets met \"#voetbal\" geimporteerd."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:935
+msgid "By comma seperating words you can set-up multiple filters."
+msgstr "Door woorden komma gescheiden in te vullen kan je meerdere filters instellen."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:935
+msgid "No filter = all tweets."
+msgstr "Geen filter =  alle tweets"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:936
+msgid "The explicit words filter blocks messages with those words in it."
+msgstr "De scheldwoorden filter blokkeerd tweets indien 1 van de woorden erin voorkomt."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:942
+msgid "Filters (comma seperated)"
+msgstr "Filters (komma's gescheiden)"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:947
+msgid "Show filters in tweets."
+msgstr "Toon filters in tweets."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:955
+msgid "Explicit words (comma seperated)"
+msgstr "Scheldwoorden (komma's gescheiden)"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:961
+msgid "User options"
+msgstr "Gebruiker opties"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:966
+msgid "Show \"Want to tweet this message to?...\" message on user page."
+msgstr "Toon \"Wil je dit bericht ook twitterren?...\" bericht op gebruiker pagina."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:974
+msgid "Allow users to sync to buddypress."
+msgstr "Synchroniseren van twitter naar buddypress."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:982
+msgid "Max tweet import per user, per day (empty = unlimited)."
+msgstr "Maximum aantal tweets per gebruiker, per dag (leeg = ongelimiteerd)."
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:993
+msgid "Save Changes"
+msgstr "Bewaar instellingen"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:997
+msgid "Donate"
+msgstr "Doneer"
+
+#: D:\plugins\tweetstream\trunk/tweetstream.php:999
+msgid "Do do like this plugin? Please donate, so i can stay improving this plugin and give support."
+msgstr "Vind je het een goede plugin? Doneer alsjeblieft zodat we deze plugin kunnen blijven verbeteren en support kunnen blijven geven."
+

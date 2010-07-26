@@ -1,0 +1,25 @@
+#########################
+Installing science3point0
+#########################
+
+=====================
+for local development
+=====================
+
+science3point0 requires...
+ - Wordpress 3.0 installation
+ - MYSQL database
+
+Getting a local copy running is easy. 
+
+Set up a WP 3.0 multi user site.
+Upload the contents of the plugins folder into wp-content/plugins/
+Activate the plugins
+Upload the science3point0 theme folder into wp-content/themes/
+Activate the theme
+
+
+You now have your own scientific community - Please use this to customise and add all things 'sciencey' or '3.0ey'
+
+
+
